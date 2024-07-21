@@ -8,3 +8,4 @@ module.exports = {
   watchPathIgnorePatterns: ['node_modules'],
   testPathIgnorePatterns: ['node_modules'],
 };
+//te

@@ -65,3 +65,4 @@ resetGameButton.addEventListener('click', function(e) {
   resetGameButton.classList.add('d-none');
 });
 
+//test

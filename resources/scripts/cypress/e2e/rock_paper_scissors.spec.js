@@ -23,3 +23,4 @@ describe('Rock Paper Scissors Game', () => {
     cy.get('#game-history').children().should('have.length', 1);
   });
 });
+//tes
